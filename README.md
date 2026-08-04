@@ -7,7 +7,7 @@ A modern weather application built with **HTML, CSS, JavaScript, and FastAPI** t
 
 Unlike traditional frontend-only weather apps, this project uses a **FastAPI backend** to securely handle API requests and protect the WeatherAPI key from being exposed in the browser.
 
-🔗 **Live Demo:** [https://tarekmoustafaelsayed.github.io/PRODIGY_WD_05/](https://tarekmoustafaelsayed.github.io/PRODIGY_WD_05/)
+🔗 **Live Demo:** [https://eherotarek.github.io/Weather-App](https://eherotarek.github.io/Weather-App/)
 
 ---
 
