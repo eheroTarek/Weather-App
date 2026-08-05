@@ -212,7 +212,7 @@ Instead, all frontend requests are sent to the FastAPI backend, which securely c
 Software Engineering Student
 
 GitHub:
-https://github.com/TarekMoustafaElsayed
+https://github.com/Kenzo-TSPH
 
 LinkedIn:
 https://www.linkedin.com/in/tarek-moustafa-a29522329/
